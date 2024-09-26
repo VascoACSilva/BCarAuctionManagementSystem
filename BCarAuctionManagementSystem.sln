@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCarAuctionManagementSystem", "BCarAuctionManagementSystem.csproj", "{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCarAuctionManagementSystem.Tests", "..\BCarAuctionManagementSystem.Tests\BCarAuctionManagementSystem.Tests.csproj", "{B691AC8A-66A0-438C-8180-5FA91148EF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B691AC8A-66A0-438C-8180-5FA91148EF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B691AC8A-66A0-438C-8180-5FA91148EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B691AC8A-66A0-438C-8180-5FA91148EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B691AC8A-66A0-438C-8180-5FA91148EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134CE2D8-717D-47DC-90E9-C334A6458AE6}
+	EndGlobalSection
+EndGlobal
