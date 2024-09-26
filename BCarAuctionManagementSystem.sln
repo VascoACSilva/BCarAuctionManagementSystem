@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BCarAuctionManagementSystem", "BCarAuctionManagementSystem.csproj", "{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BCarAuctionManagementSystem.Tests", "BCarAuctionManagementSystem.Tests\BCarAuctionManagementSystem.Tests.csproj", "{5AE7D179-D538-4AEB-9496-60BBC29E8942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BCarAuctionManagementSystem.Tests", "..\BCarAuctionManagementSystem.Tests\BCarAuctionManagementSystem.Tests.csproj", "{09546337-C705-4F6A-8BFF-4FE21D8E1B8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B0D2D86-EBBE-4105-8DF0-B2217D646A1B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5AE7D179-D538-4AEB-9496-60BBC29E8942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5AE7D179-D538-4AEB-9496-60BBC29E8942}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5AE7D179-D538-4AEB-9496-60BBC29E8942}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5AE7D179-D538-4AEB-9496-60BBC29E8942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09546337-C705-4F6A-8BFF-4FE21D8E1B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09546337-C705-4F6A-8BFF-4FE21D8E1B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09546337-C705-4F6A-8BFF-4FE21D8E1B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09546337-C705-4F6A-8BFF-4FE21D8E1B8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
